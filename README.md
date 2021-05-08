@@ -6,7 +6,9 @@
 'Canada'
 > "I love Canada"
 [code](code)
-![Pic](Image.PNG)
+![Pic](Image.png
+)
+
 
 
 
